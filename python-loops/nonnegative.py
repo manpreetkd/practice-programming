@@ -6,5 +6,5 @@ For all non-negative integers i < n, print i^2.
 
 if __name__ == '__main__':
     i = int(input())
-    for n in range(i):
-        print(n**2)
+    for num in range(i):
+        print(num**2)
